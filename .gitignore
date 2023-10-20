@@ -64,3 +64,6 @@ crashlytics-build.properties
 /Content/Plugins/iOS
 /Content/Plugins/WebGL
 /Content/Extra/exclude_contrib/iOS
+/Content/Plugins/iOS.meta
+/Content/Plugins/WebGL.meta
+/Content/Extra/exclude_contrib/iOS.meta

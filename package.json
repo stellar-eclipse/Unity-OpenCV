@@ -2,7 +2,7 @@
   "name": "opencv",
   "displayName": "OpenCV",
   "description": "",
-  "version": "0.0.1",
+  "version": "2.5.3",
   "unity": "2021.3",
   "samples": [
     {
